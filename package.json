@@ -1,0 +1,23 @@
+{
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "Aplikasi kalkulator web modern dengan desain dark premium, dibangun menggunakan HTML, CSS, dan JavaScript murni tanpa framework.",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@fontsource/dm-sans": "^5.3.0",
+    "@fontsource/nunito": "^5.3.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5"
+  }
+}
